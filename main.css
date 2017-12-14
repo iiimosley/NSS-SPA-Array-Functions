@@ -1,0 +1,34 @@
+#arrayChain, #stringJam, #solarSystem {
+    width: 50%;
+    margin: 2em auto;
+    font-size: 1.1em;
+    border: 2px double skyblue;
+}
+
+#arrayChain {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#stringJam span {
+    margin: auto .6em;
+}
+
+#stringJam, #solarSystem {
+    padding: 1em;
+}
+
+#stringJam input {
+    margin: 1em auto;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+#solarSystem li {
+    font-style: italic;
+    letter-spacing: .1em;
+    margin-left: 1em;
+}
