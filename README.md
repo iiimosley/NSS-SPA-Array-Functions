@@ -1,4 +1,4 @@
-#NSS: Single Page Applications - Array Function Exercises
+# NSS: Single Page Applications - Array Function Exercises
 
 1. Array Methods
 
